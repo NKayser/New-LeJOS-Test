@@ -1,3 +1,3 @@
-module HelloWorld {
-	requires ev3classes;
-}
+//module HelloWorld {
+//	requires ev3classes;
+//}
